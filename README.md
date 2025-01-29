@@ -6,7 +6,7 @@ In this video, I explain how to create a **random image gallery** using **HTML**
 
 Check out the video to see the full tutorial:
 
-[![Watch the tutorial on YouTube](https://img.youtube.com/vi/biIVzEHxHNA/maxresdefault.jpg)](https://youtu.be/biIVzEHxHNA)
+[![Watch the tutorial on YouTube](https://i9.ytimg.com/vi_webp/biIVzEHxHNA/mqdefault.webp?v=679a9653&sqp=CNCt6rwG&rs=AOn4CLAMWUJxW5mT_aayfjAxYfEOyLZWKQ)](https://youtu.be/biIVzEHxHNA)
 
 In this video, you'll learn:
 - How to create a dynamic gallery using JavaScript.
